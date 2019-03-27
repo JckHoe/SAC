@@ -1,0 +1,9 @@
+2018-08-31 16:47:08;User1;resource3;1;
+2018-08-31 16:47:08;User2;resource2;2;
+2018-08-31 16:47:08;Manager1;resource1;4;
+2018-08-31 16:47:08;User2;resource3;1;
+2018-08-31 16:47:08;User1;resource3;3;
+2018-08-31 16:47:08;User1;resource3;1;
+2018-08-31 16:47:08;User1;resource3;3;
+2018-08-31 16:47:08;User3;resource3;1;
+2018-08-31 16:47:09;User1;resource3;3;

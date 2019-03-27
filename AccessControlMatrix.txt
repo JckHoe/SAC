@@ -1,0 +1,3 @@
+User1;U001;Own;Own;Blocked;
+User2;U002;Read;Blocked;Read/Write;
+User3;U003;Blocked;Write;Blocked;
